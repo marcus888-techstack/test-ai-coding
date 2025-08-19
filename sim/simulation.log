@@ -1,0 +1,29 @@
+
+====================================
+    16-bit ALU Testbench Started    
+====================================
+
+VCD info: dumpfile alu_16bit.vcd opened for output.
+
+=== Testing ADD Operation ===
+
+=== Testing SUB Operation ===
+
+=== Testing Logic Operations ===
+
+=== Testing Shift Operations ===
+
+=== Testing Special Operations ===
+
+=== Running Random Tests ===
+Completed 1000 random tests
+
+====================================
+         Test Summary Report         
+====================================
+Total Tests:  1017
+Errors:       0
+Status:       PASSED
+====================================
+
+tb/alu_16bit_tb.sv:396: $finish called at 20475000 (1ps)
